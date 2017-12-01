@@ -1,0 +1,4 @@
+[[constraint]]
+  name = "github.com/google/go-github"
+[[constraint]]
+  name = "golang.org/x/oauth2"
